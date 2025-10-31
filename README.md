@@ -1,16 +1,18 @@
-## Hi there 👋
+# Hey there! 👋 I'm Hadi Rachmat  
 
-<!--
-**HadiRachmat/HadiRachmat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🧠 Fullstack Developer | Code Craftsman | Problem Solver  
 
-Here are some ideas to get you started:
+I love working across the stack — from designing REST APIs with **Express + Prisma**  
+to crafting modern UIs with **React + TailwindCSS**.  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🔧 My go-to tools:  
+- JavaScript / TypeScript  
+- Node.js, Express  
+- React.js, Ant Design  
+- PostgreSQL, Prisma ORM  
+
+🌱 Currently exploring:  
+- Advanced backend patterns (DDD, SOLID, Clean Architecture)  
+- Frontend performance optimization  
+
+✨ Motto: “Write code that’s simple, scalable, and speaks for itself.”
